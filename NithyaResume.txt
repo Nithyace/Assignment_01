@@ -20,7 +20,8 @@ JavaScript
 Make your content more interactive, and build web applications.
 
 Projects 
-Online Examination Using HTML,CSS ,JavaScript and Python.
+Online Examination Using HTML,CSS ,JavaScript and Python used
+in front-End , MySql was used in  Back-End.
 
 Work History:
 2yrs of Teaching coding
