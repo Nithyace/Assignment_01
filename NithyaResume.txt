@@ -1,7 +1,7 @@
 Nithya Celestine 
 Coder,Graduate in Bsc,B.Ed and Teacher
 Pursuing my Msc Computer Science.
-Website: www.Google.com
+Website: Nithya12c@gmail.com
 Phone no:8971508600
 
 Hi! I'am Nithya Celestine and I want to work as a Developer in your company as very happy 
@@ -18,10 +18,13 @@ CSS
 Layout your content visually for multiple devices.
 JavaScript
 Make your content more interactive, and build web applications.
+c
+c++
+Python
 
 Projects 
 Online Examination Using HTML,CSS ,JavaScript and Python used
-in front-End , MySql was used in  Back-End.
+in front-End , MySql was used in  Back-End. This Exam system made sure that the website worked well to fetch the online answers from the students and give the results for the specific course that the student had selected ,the specific teacher had access to marks of each Student.
 
 Work History:
 2yrs of Teaching coding
@@ -30,13 +33,11 @@ in Campk12.
 5yrs of Teaching in 
 little Dynamites.
 
-Portfolio
-
 Testimonials
 Worked as a Excellent Employee
 in campk12.
 
-Mailing Address
+Address
 #14/28,G-02,1st Main,2nd cross,
 Madiwala Al-Barkath Building G-02,old
 post office Road,Maruti Nagar Bengaluru
